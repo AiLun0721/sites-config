@@ -1,35 +1,60 @@
 {
-  "_说明": "这个文件就是下发给 App 的内容。改完保存并提交到 GitHub，App 下次打开就自动更新。categories 是分类，sites 是分类里的网站。enabled 改成 false 可以临时下架某个网站，而不用删掉它。",
-
   "version": 1,
-  "updatedAt": "2026-01-01T00:00:00Z",
-
+  "updatedAt": "2026-10-14T09:03:34.998Z",
   "appName": "我的导航",
   "theme": "#4c8dff",
   "showAllTab": true,
   "notice": "",
-
+  "auth": {
+    "required": true,
+    "salt": "99c7028442bb417bbe3cbfa8cbf57107",
+    "iter": 100000,
+    "invites": [
+      {
+        "label": "第 1 代",
+        "hash": "3a2e264f372c5d206f95a36e4faee7f48b827732850d7d0de573e90fb2b1fbc0",
+        "retired": false
+      }
+    ]
+  },
   "categories": [
     {
       "name": "绅士游戏",
       "icon": "🎮",
       "sites": [
-        { "id": "g1", "name": "示例站点一", "url": "https://example.com", "desc": "把这里改成真实网址", "order": 1, "enabled": true },
-        { "id": "g2", "name": "示例站点二", "url": "https://example.org", "desc": "把这里改成真实网址", "order": 2, "enabled": true }
-      ]
-    },
-    {
-      "name": "学习板游戏",
-      "icon": "📚",
-      "sites": [
-        { "id": "s1", "name": "示例站点三", "url": "https://example.com", "desc": "把这里改成真实网址", "order": 1, "enabled": true }
+        {
+          "id": "绅士游戏-1",
+          "name": "示例站点",
+          "url": "https://example.com",
+          "desc": "",
+          "icon": "",
+          "order": 1,
+          "enabled": true
+        }
       ]
     },
     {
       "name": "绅士视频",
-      "icon": "🎬",
+      "icon": "📁",
       "sites": [
-        { "id": "v1", "name": "示例站点四", "url": "https://example.com", "desc": "把这里改成真实网址", "order": 1, "enabled": true }
+        {
+          "id": "绅士视频-1",
+          "name": "aa",
+          "url": "https://www.diygm.com/",
+          "desc": "",
+          "icon": "",
+          "order": 1,
+          "enabled": true
+        },
+        {
+          "id": "绅士视频-2",
+          "name": "aaddd",
+          "url": "https://www.zhaohf.com/mianfeicq.html",
+          "desc": "",
+          "icon": "",
+          "order": 2,
+          "enabled": true
+        }
       ]
     }
   ]
