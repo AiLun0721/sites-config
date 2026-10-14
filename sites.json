@@ -1,61 +1,6 @@
 {
-  "version": 1,
-  "updatedAt": "2026-10-14T09:03:34.998Z",
-  "appName": "我的导航",
-  "theme": "#4c8dff",
-  "showAllTab": true,
-  "notice": "",
-  "auth": {
-    "required": true,
-    "salt": "99c7028442bb417bbe3cbfa8cbf57107",
-    "iter": 100000,
-    "invites": [
-      {
-        "label": "第 1 代",
-        "hash": "3a2e264f372c5d206f95a36e4faee7f48b827732850d7d0de573e90fb2b1fbc0",
-        "retired": false
-      }
-    ]
-  },
-  "categories": [
-    {
-      "name": "绅士游戏",
-      "icon": "🎮",
-      "sites": [
-        {
-          "id": "绅士游戏-1",
-          "name": "示例站点",
-          "url": "https://example.com",
-          "desc": "",
-          "icon": "",
-          "order": 1,
-          "enabled": true
-        }
-      ]
-    },
-    {
-      "name": "绅士视频",
-      "icon": "📁",
-      "sites": [
-        {
-          "id": "绅士视频-1",
-          "name": "aa",
-          "url": "https://www.diygm.com/",
-          "desc": "",
-          "icon": "",
-          "order": 1,
-          "enabled": true
-        },
-        {
-          "id": "绅士视频-2",
-          "name": "aaddd",
-          "url": "https://www.zhaohf.com/mianfeicq.html",
-          "desc": "",
-          "icon": "",
-          "order": 2,
-          "enabled": true
-        }
-      ]
-    }
-  ]
+  "_enc": 1,
+  "salt": "9353dadb175725a7958fa59044273292",
+  "iv": "78a85ef4ab501c097d0f3e4c",
+  "ct": "5TSWKn7uGKnAQZPCz7hZD1UOhvTxWLBNPH1nQfIa+1nDWjJOOjgDJ5nwgAkPmyiVKp5RTQKc2WBQZR0AIntkjfC6yFzAgQ9ONJYNmiZp8JEzbJJ1KWgWs6yFZX6GsuEQ0wXs5sidbROVeHOSHBXRuOTF/SQ8Xpuc5q9ZQFgZ1FVgcjqC0pH8nUOhu7/On+4O8rDrq7zoaJQ3+kjRaNJtmI0WHrnskjukED2AlA0dCWFp6Ylg2pEM7A+xi7UxC/o91VLWFbluP1kxinfDqJvu/idwPGSjVfPxbZUKZPRi+G9pehZXF0MttZMW2HsEqr5kUswjTFIJc5Z+v7zwo9jF7E3cWuUIdAYe4/HqPYYa7ICLBognZ3d4c35EpG7uG7FosQPNVONBE+wZHJLXZ0Pa0rtRPeqIu60uFVpE8MR/rqe4NsZUEXTv/BO9fYU19V6f/rFqrcsPBVobZF+j7nbP0uaoEQ892hLjk1RvJuj6ZdGQ6vOyiNkt+P+qyEGMcmPPTVDYllcCmLvmeggUTB6rW3bJsP4LU25G34wIArmJ4u6/2648cLXP6kR5sDjSEteB3CDupBU5lX3BFusISyNkkw157K9H9/0KorAwfTlhty4OhfjaU7H3Bk7696F3Q++/q3yNnuydu0T6TvqO3axELKhN8QKSPLDqMENm32O1Q4IQ4qUZ6Amac/Q8jqaV4CHYLk5FyU8G0tDgRcaU6Xilg5df9funYr9oHcL+6vYWpga+T7WHgDNyNjOyw0pu2G/V0VQjCstdDqpFHk8W1z60BAsrAcPl/LbQtKSNbx7MBEFtj2uvBLSo+R2X+juYevq975bi4dZl6a7kieNplE0P0OxxsEIlhDwqey3qf7wnTsgWVLkYJw9M4MUEorEDLWelz6qyGRa5uU2FX/iQGC7ajepkv7JOJxShKcm27lgj5Nmr5NstpmGV35eYm8hryecBxLMHcAvmGQbdgBmoY3/03qM/tPqLWxBuxQNBhmEDNkP3M4+13VwA63GTp4nps44mimpetHqG3Tdq4gC0C2aHj5N/Di/jPbJof47SQCr94aPs//sLyiUTITToOmAhQ3Q+UjzczRcc/kiFgYw5T3dqIshuFeha0Abu4WIfEcCdmUPeTnWvqonHVDZeN2TqlHSubo4plLduzDAkCnzjTFwVs03AZqTkYUBYVtuehhL86HN1coev+maLmkkurj1/mIdfxxqRlZegP7tXU2WfCmZfCL135zy0FTOUPjQg07pF+H4Ej1defntaSB/8rBFz5vSxLl0umGeXItfHRELz"
 }
