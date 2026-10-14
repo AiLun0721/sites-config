@@ -1,0 +1,36 @@
+{
+  "_说明": "这个文件就是下发给 App 的内容。改完保存并提交到 GitHub，App 下次打开就自动更新。categories 是分类，sites 是分类里的网站。enabled 改成 false 可以临时下架某个网站，而不用删掉它。",
+
+  "version": 1,
+  "updatedAt": "2026-01-01T00:00:00Z",
+
+  "appName": "我的导航",
+  "theme": "#4c8dff",
+  "showAllTab": true,
+  "notice": "",
+
+  "categories": [
+    {
+      "name": "绅士游戏",
+      "icon": "🎮",
+      "sites": [
+        { "id": "g1", "name": "示例站点一", "url": "https://example.com", "desc": "把这里改成真实网址", "order": 1, "enabled": true },
+        { "id": "g2", "name": "示例站点二", "url": "https://example.org", "desc": "把这里改成真实网址", "order": 2, "enabled": true }
+      ]
+    },
+    {
+      "name": "学习板游戏",
+      "icon": "📚",
+      "sites": [
+        { "id": "s1", "name": "示例站点三", "url": "https://example.com", "desc": "把这里改成真实网址", "order": 1, "enabled": true }
+      ]
+    },
+    {
+      "name": "绅士视频",
+      "icon": "🎬",
+      "sites": [
+        { "id": "v1", "name": "示例站点四", "url": "https://example.com", "desc": "把这里改成真实网址", "order": 1, "enabled": true }
+      ]
+    }
+  ]
+}
